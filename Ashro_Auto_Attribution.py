@@ -5,7 +5,7 @@ import os
 import subprocess
 import shutil
 from datetime import datetime
-# "Linux安全检查与应急响应工具"
+# "自动化溯源工具"
 # "Version: 2.0"
 # "Author: Ashro"
 # "Date: 2024-5-10
