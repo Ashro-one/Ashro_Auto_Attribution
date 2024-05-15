@@ -4,13 +4,13 @@ import argparse
 import csv
 
 api_keys =  [
-    '062dc71eb1ea4fffb1301dd5b9abf7ee84ce2d3ea7bc4d8ab2fc92927c8ffc7e',
-    '7a668c5eda1a4bba9884582c3f8be46d59a6c74ed2ca476eb0df305ce45c27a3',
-    'e37a3a7a5671446595a21f346cb903ff6c1074e5b4c348dfa19b13320c06655b',
-    '4221435794bc4f63a28c77eb93b36bf0e651ccbd14b34e9888a2fa1ceb198c60',
-    'e901ad781089404cafb6c2838bb5ad54affc95238e844c16b974ca7b314e3756',
-    '415f32bad8f94fb8bda90237298ceb35286233fa77ba4f2685b5915734403da0',
-    '90de501f42fd4e46b45cba9ba4a8b16a0e57922fedc247aa8d1c240c76e21450'
+    '微步apikey',
+    '',
+    '',
+    '',
+    '',
+    '',
+    ''
 ]
 
 url = "https://api.threatbook.cn/v3/scene/ip_reputation"
