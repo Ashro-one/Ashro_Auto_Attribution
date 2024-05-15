@@ -11,7 +11,7 @@
     
   5.利用黑客工具指纹针进行红队服务器搜集（.Ashro_ports）
 
-  6.利用常用漏扫工具进行肉鸡漏洞抓取（afrog,BscanPlus）<br>
+  6.利用常用漏扫工具进行肉鸡漏洞抓取（afrog）<br>
     其他的漏扫可以自己将output/high.txt文件中的ip地址拿去扫。
 
 
