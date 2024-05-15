@@ -36,17 +36,5 @@
 想弄IP反查域名，找了几个在线网站都不好用，在微步上找到了靠谱的api但是 俺用不了 开发计划失败！！！ 有好的IP反查域名的好网站 可以留言
 以查出这个118.212.233.107ip地址域名的的算是好网站。
 
-<img width="983" alt="image" src="https://github.com/Ashro-one/Ashro_Auto_Attribution/assets/49979071/c06d1d1c-a8f4-47b6-afdf-564ee67d7b73">
-
-
-
-
-
-
-参考https://github.com/GeniusZJL/Vps_tracke/
-    
-
-
-
 
 
